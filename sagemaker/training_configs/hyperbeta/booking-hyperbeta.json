@@ -1,0 +1,18 @@
+{
+    "entry_point": "src/training/train_sasrec_countnet.py",
+    "dataset": "booking",
+    "parameters": {
+        "max-epochs": "200000",
+        "batch-size": "32",
+        "sequence-length": "50",
+        "logit-item-repr": "both",
+        "logit-aggregate": "replace",
+        "backbone": "SASRec",
+        "count-transform": "logPlusBetaHyper",
+        "separate-logit-projection": "True"
+    },
+    "hyperparameters":
+    {
+        "beta": ["0.125", "0.25", "0.5", "2", "4", "8"]
+    }
+}

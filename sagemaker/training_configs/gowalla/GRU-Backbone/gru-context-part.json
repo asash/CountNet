@@ -1,0 +1,14 @@
+{
+    "entry_point": "src/training/train_sasrec_countnet.py",
+    "dataset": "gowalla",
+    "parameters": {
+        "max-epochs": "200000",
+        "batch-size": "32",
+        "sequence-length": "50",
+        "logit-item-repr": "embeddings",
+        "logit-aggregate": "replace",
+        "backbone": "GRU",
+        "count-transform": "id",
+        "separate-logit-projection": "True"
+    }
+}
