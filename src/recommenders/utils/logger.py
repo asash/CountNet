@@ -1,3 +1,6 @@
+# Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# SPDX-License-Identifier: Apache-2.0
+
 from torch.utils.tensorboard import SummaryWriter
 
 class TrainingLogger(object):

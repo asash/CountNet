@@ -1,3 +1,6 @@
+# Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# SPDX-License-Identifier: Apache-2.0
+
 from src.sagemaker.sagemaker_utils import is_running_on_sagemaker
 import json
 import os 

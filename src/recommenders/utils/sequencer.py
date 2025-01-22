@@ -1,3 +1,6 @@
+# Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# SPDX-License-Identifier: Apache-2.0
+
 #converts train data to sequential format
 #Also, handles the item id representations
 #Uses item <0> as padding

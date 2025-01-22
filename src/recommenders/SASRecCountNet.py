@@ -1,3 +1,6 @@
+# Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# SPDX-License-Identifier: Apache-2.0
+
 import torch.utils
 from src.recommenders.logit_transform.rerank_net import RerankNet
 from src.recommenders.logit_transform.logit_transform import LogitTransform

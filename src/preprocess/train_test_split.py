@@ -1,3 +1,6 @@
+# Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# SPDX-License-Identifier: Apache-2.0
+
 #  Time-based split for sequential recommendation
 import pandas as pd
 from pathlib import Path
