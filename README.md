@@ -11,9 +11,8 @@ Sean Murphy, Amazon.com
 @inproceedings{petrov2025countnet,
   title={CountNet: Utilising Repetition Counts in Sequential Recommendation},
   author={Petrov, Aleksandr Vladimirovich and Karra, Efi and Murphy, Sean},
-  booktitle={Proceedings of the 17th ACM Conference on Recommender Systems},
-  pages={116--128},
-  year={2023}
+  booktitle={Proceedings of the 47th European Conference on Information Retrieval},
+  year={2025}
 }
 ```
 
