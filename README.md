@@ -2,7 +2,9 @@ This is the source code implementing the paper **CountNet: Utilising Repetition 
 
 ## Authors:
 Aleksandr V. Petrov, University of Glasgow (work done while in Amazon.com)
+
 Efi Karra, Amazon.com
+
 Sean Murphy, Amazon.com
 
 ```
