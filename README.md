@@ -1,4 +1,4 @@
-This is the source code implementing the paper **CountNet: Utilising Repetition Counts in Sequential Recommendation** published in the proceedings of 47$^th$ European Conference on Information Retrieval. 
+This is the source code implementing the paper **CountNet: Utilising Repetition Counts in Sequential Recommendation** published in the proceedings of 47<sup>th</sup> European Conference on Information Retrieval. 
 
 ## Authors:
 Aleksandr V. Petrov, University of Glasgow (work done while in Amazon.com)
@@ -15,6 +15,9 @@ Sean Murphy, Amazon.com
   year={2025}
 }
 ```
+
+## Paper Link: 
+https://link.springer.com/chapter/10.1007/978-3-031-88714-7_4
 
 
 ## Structure
